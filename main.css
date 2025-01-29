@@ -1,0 +1,21 @@
+tr, td, table{
+    width: 1300px;
+    height: 50px;  
+    text-align: center;
+    border-collapse: collapse; 
+    border: 5px, solid, black;
+    margin: 0 auto;
+    margin:100px
+    
+}
+tr{
+    background-color: grey;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+td{
+    border-radius: 40px;
+    font-size: 20px;
+}
